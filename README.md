@@ -66,7 +66,3 @@ Contributions to this project are welcome. If you have ideas for improvements or
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for your purposes.
-
-## Acknowledgments
-
-- Mention any individuals or organizations you'd like to thank or give credit to.
