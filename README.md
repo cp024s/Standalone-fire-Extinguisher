@@ -2,8 +2,6 @@
 
 The Standalone Fire Extinguisher is a DIY project designed to create an automated fire suppression system using Arduino, sensors, and a fire extinguisher.
 
-![Standalone Fire Extinguisher](images/fire_extinguisher.jpg)
-
 ## Table of Contents
 
 - [Features](#features)
